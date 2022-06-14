@@ -27,7 +27,6 @@ button {
   display: flex;
   gap: 30px;
   list-style: none;
-  /* flex-direction: row-reverse; */
 }
 
 .pictures {
