@@ -6,4 +6,5 @@ const onInput = input.addEventListener("blur", () => {
     return;
   }
   input.classList.add("invalid");
+  input.classList.remove("valid");
 });
